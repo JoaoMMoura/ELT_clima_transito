@@ -31,7 +31,7 @@ O objetivo principal é fornecer um painel interativo que permita ao cliente vis
 
 ## Estrutura do Repositório
 
-- `/ELT`: Contém o código responsável pela extração e carregamento dos dados no airflow, que está orquestrado por uma dag.
+- `/dags`: Contém o código responsável pela extração e carregamento dos dados no airflow, que está orquestrado por uma dag.
 - `/dbt`: Você pode acessar o repositório do dbt [dbt](https://github.com/JoaoMMoura/dbt_cloud)
 - `/docs`: Contém a documentação do projeto.
 - `/visualizacao`: Contém os arquivos relacionados à visualização no Power BI, mas você também acessar o [por aqui](https://app.powerbi.com/view?r=eyJrIjoiNTRlNTYyNmYtMWQxNC00NjU2LWJhZGMtZWFhYjYwYTRhZmUyIiwidCI6IjA2MjE5YTRhLWE4MzUtNDRkNS1hZmFmLTM5MjYzNDNiZmI4OSIsImMiOjh9).
