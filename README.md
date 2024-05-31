@@ -1,3 +1,6 @@
+
+![Captura de tela 2024-05-31 143222](https://github.com/JoaoMMoura/escola_dnc/assets/113948697/2b350702-55dd-4a7e-b80e-290fb9806982)
+
 # Projeto de Integração de Dados e Visualização
 
 Este repositório contém a solução desenvolvida para uma empresa fícticia, que consiste em um sistema de integração de dados de Clima e Trânsito, seguido por uma visualização interativa dos mesmos.
