@@ -6,7 +6,6 @@
 # Projeto de Integração de Dados e Visualização
 
 Este repositório contém a solução desenvolvida para uma empresa fícticia, que consiste em um sistema de integração de dados de Clima e Trânsito, seguido por uma visualização interativa dos mesmos.
-Contexto da funcionalidade: Imagine que um cliente more em uma cidade vizinha e precise se deslocar para o seu trabalho. Ele irá enfrentar variações de clima e trânsito. O objetivo é entregar uma painel onde ele possa monitorar como está o trânsito por onde ele irá passar e como está o clima no seu destino.
 
 # Funcionalidade
 
