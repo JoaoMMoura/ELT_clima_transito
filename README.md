@@ -34,7 +34,7 @@ O objetivo principal é fornecer um painel interativo que permita ao cliente vis
 - `/ELT`: Contém o código responsável pela extração e carregamento dos dados no airflow, que está orquestrado por uma dag.
 - `/dbt`: Você pode acessar o repositório do dbt [dbt](https://github.com/JoaoMMoura/dbt_cloud)
 - `/docs`: Contém a documentação do projeto.
-- `/visualizacao`: Contém os arquivos relacionados à visualização no Power BI, mas você também acessar o [por aqui]([https://openweathermap.org/api](https://app.powerbi.com/view?r=eyJrIjoiNTRlNTYyNmYtMWQxNC00NjU2LWJhZGMtZWFhYjYwYTRhZmUyIiwidCI6IjA2MjE5YTRhLWE4MzUtNDRkNS1hZmFmLTM5MjYzNDNiZmI4OSIsImMiOjh9)).
+- `/visualizacao`: Contém os arquivos relacionados à visualização no Power BI, mas você também acessar o [por aqui](https://app.powerbi.com/view?r=eyJrIjoiNTRlNTYyNmYtMWQxNC00NjU2LWJhZGMtZWFhYjYwYTRhZmUyIiwidCI6IjA2MjE5YTRhLWE4MzUtNDRkNS1hZmFmLTM5MjYzNDNiZmI4OSIsImMiOjh9).
 
 Observação: o ELT não está ligado (custos), então os dados podem não estar atualizados quando acessar.
 
