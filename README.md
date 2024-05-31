@@ -1,4 +1,6 @@
 
+![Captura de tela 2024-05-31 144839](https://github.com/JoaoMMoura/ELT_clima_transito/assets/113948697/fc5ac7f5-2159-49be-b17f-b761a612e038)
+
 ![Captura de tela 2024-05-31 143222](https://github.com/JoaoMMoura/escola_dnc/assets/113948697/2b350702-55dd-4a7e-b80e-290fb9806982)
 
 # Projeto de Integração de Dados e Visualização
