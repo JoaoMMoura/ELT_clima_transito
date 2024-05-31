@@ -41,7 +41,7 @@ Observação: o ELT não está ligado (custos), então os dados podem não estar
 ## Instruções para Execução Local
 
 1. **Configuração do Ambiente:**
-    - Instale o Apache Airflow na sua variável de ambiente.
+    - Instale o Apache Airflow.
 
 2. **Configuração das Credenciais:**
     - Configure as credenciais necessárias para acessar as APIs de Clima e Trânsito, bem como as credenciais de acesso ao Snowflake e ao dbt.
