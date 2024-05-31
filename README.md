@@ -1,5 +1,5 @@
 
-![documentação_2024-05-31_18-04-27](https://github.com/JoaoMMoura/ELT_clima_transito/assets/113948697/4cb6a1a0-b9a7-4921-8f3e-81fb5dde5f2a)
+![documentação_2024-05-31_18-05-49](https://github.com/JoaoMMoura/ELT_clima_transito/assets/113948697/5478cc89-e7df-47e9-bab1-7c078a1fd9fc)
 
 ![Captura de tela 2024-05-31 143222](https://github.com/JoaoMMoura/escola_dnc/assets/113948697/2b350702-55dd-4a7e-b80e-290fb9806982)
 
@@ -35,7 +35,7 @@ O objetivo principal é fornecer um painel interativo que permita ao cliente vis
 
 - `/dags`: Contém o código responsável pela extração e carregamento dos dados no airflow, que está orquestrado por uma dag.
 - `/dbt`: Você pode acessar o repositório do dbt [dbt](https://github.com/JoaoMMoura/dbt_cloud)
-- `/docs`: Contém a documentação do projeto.
+- `/docs`: Contém a documentação do projeto e prints do Airflow.
 - `/visualizacao`: Contém os arquivos relacionados à visualização no Power BI, mas você também acessar o [por aqui](https://app.powerbi.com/view?r=eyJrIjoiNTRlNTYyNmYtMWQxNC00NjU2LWJhZGMtZWFhYjYwYTRhZmUyIiwidCI6IjA2MjE5YTRhLWE4MzUtNDRkNS1hZmFmLTM5MjYzNDNiZmI4OSIsImMiOjh9).
 
 Observação: o ELT não está ligado (custos), então os dados podem não estar atualizados quando acessar.
