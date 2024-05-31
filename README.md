@@ -1,5 +1,5 @@
 
-![Captura de tela 2024-05-31 144839](https://github.com/JoaoMMoura/ELT_clima_transito/assets/113948697/fc5ac7f5-2159-49be-b17f-b761a612e038)
+![documentação_2024-05-31_18-04-27](https://github.com/JoaoMMoura/ELT_clima_transito/assets/113948697/4cb6a1a0-b9a7-4921-8f3e-81fb5dde5f2a)
 
 ![Captura de tela 2024-05-31 143222](https://github.com/JoaoMMoura/escola_dnc/assets/113948697/2b350702-55dd-4a7e-b80e-290fb9806982)
 
@@ -54,10 +54,8 @@ Observação: o ELT não está ligado (custos), então os dados podem não estar
 4. **Execução do dbt:**
     - Execute o dbt para aplicar as transformações e carregar os dados na camada analítica no Snowflake.
 
-## Segurança da Solução
+## Segurança da Solução e critérios de decisão
 
 A solução foi desenvolvida com foco na segurança, garantindo o uso de credenciais de forma segura, além de seguir as melhores práticas de segurança para a integração e armazenamento de dados.
 Também foi pensado em um desenvolvimento simples, onde, em caso de aumento do número de clientes para a funcionalidade não gere impacto em custos (por já ter uma EC2 instalada ela pode executar DIVERSOS processos além desse).
 Uma boa opção também seria configurar no AWS Lambda, porém com maior complexidade.
-
-## Documentação
